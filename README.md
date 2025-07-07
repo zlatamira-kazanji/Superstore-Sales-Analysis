@@ -23,4 +23,5 @@
 
 
 В данных очень большой разброс, исследуем выбросы в Sales 
+<img width="621" alt="image" src="https://github.com/user-attachments/assets/a77d3abc-9319-4fac-8cb0-9dc9abe9bc65" />
 
