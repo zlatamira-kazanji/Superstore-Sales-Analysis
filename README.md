@@ -46,11 +46,13 @@ Technology:
 
 Наибольший разброс значений
 
+
 Office Supplies:
 
 Средний уровень продаж
 
 Меньший разброс по сравнению с Technology
+
 
 Furniture:
 
