@@ -119,4 +119,7 @@ Furniture:
 Частые, но мелкие заказы.
 
 
+![image](https://github.com/user-attachments/assets/94db8be5-143f-491e-addc-b05149ffd797)
+
+
 
